@@ -30,6 +30,23 @@ $ java -cp "target\classes" edu.escuelaing.co.app.HttpServerController
 
 Una vez ejecute este comando podrá ingresar al servidor web desde su navegador con la siguiente ruta http://localhost:34000.
 
+## Pruebas 
+
+Pagina de inicio
+
+[![mn.png](https://i.postimg.cc/VkvBDqT7/mn.png)](https://postimg.cc/0zgwNw9m)
+
+Get y Post
+
+[![lk.png](https://i.postimg.cc/FsBJF2WZ/lk.png)](https://postimg.cc/8jLCtnVJ)
+
+Imagen
+
+[![lkj.png](https://i.postimg.cc/RVBv7G3B/lkj.png)](https://postimg.cc/rzf6c1Cn)
+
+Gif
+
+[![lkh.png](https://i.postimg.cc/bJkKdc92/lkh.png)](https://postimg.cc/7GPBQRcx)
 
 ## Documentación
 
