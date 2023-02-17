@@ -25,7 +25,7 @@ mvn package
 Para ejecutarlo, se debe hacer de la siguiente forma
 
 ```
-$ java -cp "target\classes" edu.escuelaing.co.app.HttpServerController
+java -cp "target\classes" edu.escuelaing.co.app.HttpServerController
 ```
 
 Una vez ejecute este comando podrá ingresar al servidor web desde su navegador con la siguiente ruta http://localhost:33000.
